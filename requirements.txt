@@ -1,0 +1,9 @@
+#nsml: registry.navercorp.com/nsml/airush2020:pytorch1.5
+#nsml: nvcr.io/nvidia/pytorch:21.03-py3
+torch
+torchvision
+NumPy
+timm
+ptflops
+randaugment
+adabelief-pytorch
